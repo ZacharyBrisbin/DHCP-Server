@@ -71,14 +71,6 @@ Range: 192.168.50.0 /24
 
 ---
 
-### 📸 Screenshot – DHCP Authorized in AD
-
-<p align="center">
-  <img src="images/dhcp-authorized.png" width="800">
-</p>
-
----
-
 # 🧪 Scope Configuration
 
 ## Scope Details
