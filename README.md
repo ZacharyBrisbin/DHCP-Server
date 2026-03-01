@@ -9,7 +9,7 @@
 
 ## 🔎 Overview
 
-This project simulates deployment of a centralized DHCP server within an enterprise domain environment. It demonstrates dynamic IP address management, scope configuration, reservations, exclusions, DHCP options, and structured troubleshooting aligned with CompTIA A+ Core 1 objectives.
+This project simulates deployment of a centralized DHCP server within an enterprise domain environment. It demonstrates dynamic IP address management, scope configuration, reservations, exclusions, DHCP options, and structured troubleshooting.
 
 ---
 
