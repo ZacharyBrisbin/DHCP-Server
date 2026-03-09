@@ -1,9 +1,9 @@
 # 🏢 DHCP Server Lab
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Environment](https://img.shields.io/badge/Environment-VirtualBox-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows_Server-purple)
-![Infrastructure](https://img.shields.io/badge/Type-Network_Services-orange)
+![Server OS](https://img.shields.io/badge/Server-Windows%20Server%202025-blue)
+![Client OS](https://img.shields.io/badge/Client-Windows%2011-lightgrey)
+![DHCP](https://img.shields.io/badge/DHCP-Configured-green)
+![Virtualization](https://img.shields.io/badge/Virtualization-VirtualBox-orange)
 
 ---
 
